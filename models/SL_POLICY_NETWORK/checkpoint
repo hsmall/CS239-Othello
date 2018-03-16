@@ -1,0 +1,2 @@
+model_checkpoint_path: "SL_POLICY_NETWORK"
+all_model_checkpoint_paths: "SL_POLICY_NETWORK"
